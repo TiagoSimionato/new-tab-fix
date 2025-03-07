@@ -1,6 +1,6 @@
 # New tab fix
 
-Chrome extension for fixing new tab page. Built using [React](https://react.dev/) and bundling with [Vite](https://vite.dev/).
+Built using [React](https://react.dev/) and bundling with [Vite](https://vite.dev/).
 
 ## Building the app
 

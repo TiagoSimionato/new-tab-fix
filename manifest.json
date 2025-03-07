@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "New tab fix",
+  "name": "my_extension",
   "version": "1.0.0",
   "description": "Extension to make the new tab page have a cleaner look",
   "author": "tiago.simionato5@gmail.com",
